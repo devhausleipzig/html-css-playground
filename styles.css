@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+
+/* Universal Selector */
+* {
+  margin: 0;
+}
+
+body {
+  font-family: Montserrat, sans-serif;
+}
+
+/* Element Selectors */
+
+h2 {
+  color: blueviolet;
+  margin-bottom: 10px;
+}
+
+strong {
+  font-weight: normal;
+  color: red;
+}
+
+th {
+  padding: 20px;
+}
+
+td {
+  padding: 20px;
+}
+
+/* Class Selector */
+
+.special-heading {
+  color: lightgreen;
+}
+
+.img-with-quote {
+  background-color: thistle;
+}
+
+.serif {
+  font-family: serif;
+}
+
+.center-table {
+  margin: 0 auto;
+}
+
+/* ID Selector */
+
+#why-heading {
+  color: hotpink;
+}

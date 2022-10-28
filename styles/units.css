@@ -1,0 +1,85 @@
+/* #my-div {
+  width: 33.33%;
+  height: 200px;
+  background-color: red;
+}
+
+#my-second-div {
+  background-color: green;
+  height: 100%;
+  width: 50%;
+} */
+
+/* .card {
+  padding: 20px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+
+.header-group {
+  margin-bottom: 20px;
+}
+
+.avatar {
+  width: 25%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 40px;
+}
+
+.post-title {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.post-excerpt {
+} */
+
+* {
+  margin: 0;
+}
+
+/* .my-div {
+  background-color: red;
+  height: 20vmin;
+}
+
+.red {
+  background-color: red;
+}
+.green {
+  background-color: green;
+}
+.blue {
+  background-color: blue;
+} */
+
+h1 {
+  margin-bottom: 40px;
+}
+
+.group {
+  font-size: 40px;
+}
+
+.paragraph {
+  margin-bottom: 20px;
+}
+
+#my-paragraph-1 {
+  font-size: 0.25em;
+}
+
+#my-paragraph-2 {
+  font-size: 0.5em;
+}
+
+#my-paragraph-3 {
+  font-size: 0.75em;
+}
+
+#my-paragraph-4 {
+  font-size: 1em;
+}

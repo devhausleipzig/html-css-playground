@@ -1,0 +1,47 @@
+#parent {
+  height: 200px;
+  width: 400px;
+  background-color: green;
+  position: relative;
+}
+
+#child-1 {
+  background-color: red;
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  /* bottom: 0; */
+  /* right: 0; */
+}
+
+#paragraph {
+  width: 50%;
+  position: absolute;
+  /* right: 0; */
+  top: 0;
+}
+
+#child-2 {
+  background-color: blue;
+  height: 50px;
+  width: 50px;
+}
+
+* {
+  margin: 0;
+}
+
+body {
+  height: 300vh;
+  background-color: beige;
+  position: relative;
+}
+
+header {
+  background-color: red;
+  height: 80px;
+  position: sticky;
+  top: 0;
+  width: 100vw;
+  z-index: 100;
+}
